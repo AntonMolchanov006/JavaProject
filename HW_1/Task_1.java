@@ -16,6 +16,7 @@ public class Task_1 {
         }
         System.out.println("Сумма чисел от 1 до n равна: " + sum);
         System.out.println("Факториал числа n равен: " + factorial);
+        
 
     }
 }

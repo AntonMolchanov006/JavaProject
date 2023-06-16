@@ -28,5 +28,7 @@ public class Task_3 {
             default: result = 0;
         }
         System.out.println("ответ: " + result);
+
+        sc.close();
     }
 }
