@@ -21,6 +21,7 @@ public class Task_4 {
         String firstNum = equation.substring(0, index1);
         String secondNum  = equation.substring(index1+1, index2);
         String result = equation.substring(index2+1);
+        boolean flag = false;
         
         for (int i = 0; i < 10; i++) {
             String n = Integer.toString(i);
@@ -29,7 +30,11 @@ public class Task_4 {
             int N3 = Integer.parseInt(result);
             if((N1+N2) == N3){
                 System.out.printf("%d+%d=%d", N1,N2,N3);
+                flag = true;
             }
+        }
+        if(flag == false){
+            System.out.println("Решения нет.");
         }
     }
 }
