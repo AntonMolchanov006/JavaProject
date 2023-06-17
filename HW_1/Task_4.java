@@ -18,8 +18,18 @@ public class Task_4 {
 
         int index1 = equation.indexOf("+");
         int index2 = equation.indexOf("=");
-
-        System.out.println(index1);
-
+        String firstNum = equation.substring(0, index1);
+        String secondNum  = equation.substring(index1+1, index2);
+        String result = equation.substring(index2+1);
+        
+        for (int i = 0; i < 10; i++) {
+            String n = Integer.toString(i);
+            int N1 = Integer.parseInt(firstNum.replace("?", n));
+            int N2 = Integer.parseInt(secondNum.replace("?", n));
+            int N3 = Integer.parseInt(result);
+            if((N1+N2) == N3){
+                System.out.printf("%d+%d=%d", N1,N2,N3);
+            }
+        }
     }
 }
