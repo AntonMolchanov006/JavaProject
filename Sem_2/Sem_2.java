@@ -10,11 +10,11 @@ public class Sem_2 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Введите длину строки: ");
+        System.out.print("Введите длину строки: ");
         int N = sc.nextInt();
-        System.out.println("Введите первый символ: ");
+        System.out.print("Введите первый символ: ");
         char c1 = sc.next().charAt(0);
-        System.out.println("Введите первый символ: ");
+        System.out.print("Введите первый символ: ");
         char c2 = sc.next().charAt(0);
 
         String str = "";
