@@ -10,7 +10,7 @@ public class Sem_2_2 {
         String str = "TEST";
 
         try{
-        FileWriter file = new FileWriter("test.txt");
+        FileWriter file = new FileWriter("Sem_2//test.txt");
         for (int i = 0; i < n; i++) {
             file.write(str+"\n");
         }
