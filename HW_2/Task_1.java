@@ -15,8 +15,29 @@ public class Task_1 {
         //Пример вывода: "select * from students WHERE name = Ivanov AND country = Russia.....".
 
         String order = "select * from students where ";
-        String filter = "{'name':'Ivanov', 'country':'Russia', 'city':'Moscow', 'age':'null'}";
+        String [] filter = {"'name':'Ivanov'", "'country':'Russia'", "'city':'Moscow'", "'age':'null'"};
         
+        int tempIndex;
+        String key;
+        String value;
+        StringBuilder sb = new StringBuilder(order);
         
+        for (int i = 0; i < filter.length; i++) {
+            if(i==0){
+                tempIndex = filter[i].indexOf(':');
+                key = filter[i].substring(1, tempIndex-1);
+                value = filter[i].substring(tempIndex+2, filter[i].length()-1);
+                sb.append(" " + key + " = " + value);
+            }
+            else{
+                tempIndex = filter[i].indexOf(':');
+                key = filter[i].substring(1, tempIndex-1);
+                value = filter[i].substring(tempIndex+2, filter[i].length()-1);
+                sb.append(" " + key + " = " + value);
+            }
+        }
+        System.out.println(sb);
+
+
     }
 }
