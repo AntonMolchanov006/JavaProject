@@ -1,0 +1,48 @@
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 6 became 3
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 7 became 4
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 0 became 5
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 2 became 6
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 8 became 7
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 8
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 5 became 9
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 0 became 4
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 2 became 5
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 7
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 5 became 8
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 0 became 3
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 2 became 4
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 6
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 5 became 7
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 0 became 2
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 2 became 3
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 5
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 5 became 6
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 0 became 1
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 2 became 2
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 4
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 3
+июн. 21, 2023 11:38:26 PM HW_2.Task_2 main
+INFO: Wed Jun 21 23:38:26 MSK 2023 index of element 1 became 2
